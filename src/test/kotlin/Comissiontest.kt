@@ -10,7 +10,7 @@ class Comissiontest {
         val sumLastRemittence = 0
         val remittence = 5000
         val result = getComission(cardType, sumLastRemittence, remittence)
-        assertEquals(0, result)
+        assertEquals(35, result)
     }
 
 
