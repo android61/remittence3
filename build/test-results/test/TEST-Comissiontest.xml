@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Comissiontest" tests="25" skipped="0" failures="0" errors="0" timestamp="2023-11-03T20:53:21" hostname="DESKTOP-N2J2I0D" time="0.042">
+  <properties/>
+  <testcase name="getComissionMaestroDailyBranchElse" classname="Comissiontest" time="0.037"/>
+  <testcase name="getComissionVkPayDailyBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionVisaMonthBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionMastercarddBranchIf" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionMastercardMonthBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionMaestrodBranchIf" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionMirMonthBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionVisaMinBranchIf" classname="Comissiontest" time="0.0"/>
+  <testcase name="defaultValue" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionMirBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="comissionVisaMirBranchIf" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionVisaBranchIf" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionMaestroMonthBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionMirUsualBranchIf" classname="Comissiontest" time="0.001"/>
+  <testcase name="comissionVisaMirBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionMastercardBranchElse" classname="Comissiontest" time="0.002"/>
+  <testcase name="getComissionVkPayMonthBranchElse" classname="Comissiontest" time="0.001"/>
+  <testcase name="getComissionMastercardDailyBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="comissionMaestroMastercardBranchIf" classname="Comissiontest" time="0.0"/>
+  <testcase name="comissionMaestroMastercardBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="unknowCard" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionMirBranchIf" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionMaestroBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionVisaMirBranchElse" classname="Comissiontest" time="0.0"/>
+  <testcase name="getComissionVkPayBranchIf" classname="Comissiontest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
